@@ -51,7 +51,7 @@ _________________________________________
             text: uptimeMessage
           }),
           footer: proto.Message.InteractiveMessage.Footer.create({
-            text: "© Powered By 𝞢𝙏𝞖𝞘𝞦-𝞛𝘿"
+            text: "© Powered By Dimension-x"
           }),
           header: proto.Message.InteractiveMessage.Header.create({
             title: "",
@@ -68,7 +68,7 @@ _________________________________________
                   isForwarded: true,
                 forwardedNewsletterMessageInfo: {
                   newsletterJid: '120363249960769123@newsletter',
-                  newsletterName: "Ethix-MD",
+                  newsletterName: "Dimension",
                   serverMessageId: 143
                 }
               }
